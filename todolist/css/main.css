@@ -1,0 +1,21 @@
+ul {
+    margin: 0px;
+    list-style-type: square;
+    text-decoration: none;
+}
+
+.addBtn {
+    background: #ddd111;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+ul li {
+    cursor: pointer;
+    padding-top: 12px;
+    margin-top: 3px;
+    font-size: 15px;
+}
+li {
+    background: grey;
+}
